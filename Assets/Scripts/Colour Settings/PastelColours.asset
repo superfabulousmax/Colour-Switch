@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14a3c855f03f11e47937439bc95737c0, type: 3}
+  m_Name: PastelColours
+  m_EditorClassIdentifier: Assembly-CSharp::ColourData
+  one: {r: 0.46057317, g: 0.75673056, b: 0.8490566, a: 1}
+  two: {r: 0.9622642, g: 0.58998555, b: 0.24056605, a: 1}
+  three: {r: 0.9245283, g: 0.3009078, b: 0.85684854, a: 1}
+  four: {r: 1, g: 0.21226418, b: 0.3658728, a: 1}
+  size: 4
